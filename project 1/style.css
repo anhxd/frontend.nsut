@@ -1,0 +1,17 @@
+.task-bar{
+    display:flex;
+    bottom-border: 1px solid ;
+height:100px;
+
+}
+
+
+.privacy,
+.feature,
+.help-centre,
+.blog{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+}

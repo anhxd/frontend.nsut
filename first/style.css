@@ -1,0 +1,31 @@
+
+        .twitter_logo{
+            height:40px;
+            width:100px;
+            border-radius: 20px;
+            color:rgb(255, 255, 255);
+            background-color:rgb(52, 52, 214);	
+            border-color:rgb(52, 52, 214);	;
+            border:none;	
+            cursor:pointer;
+            margin-left:100px;
+            font-weight: bold;
+            transition: 1s;
+        }
+        .brand-logos{
+        color: green;
+            font-weight:bold;
+        
+        }
+        .twitter-logo:hover
+        {
+            color: red;
+        }
+        .text{
+            color:steelblue;
+            font-size: 40px;
+
+        }
+         .new-text{
+              font-weight:bold ;
+         }
